@@ -1,0 +1,18 @@
+.number1,
+.number3 {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.number3 {
+    font-size: 24px;
+}
+#title {
+    color:blue;
+    font-size: 36px;
+}
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
